@@ -1,0 +1,24 @@
+{
+  "name": "basic-information-site",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mulegi/Project-Basic-Information-Site#readme",
+  "bugs": {
+    "url": "https://github.com/mulegi/Project-Basic-Information-Site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulegi/Project-Basic-Information-Site.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "lodash": "^4.17.21"
+  }
+}
